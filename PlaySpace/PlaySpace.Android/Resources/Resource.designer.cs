@@ -2192,26 +2192,26 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02010e
-			public const int avd_hide_password_1 = 2130837774;
-			
 			// aapt resource value: 0x7f02010f
-			public const int avd_hide_password_2 = 2130837775;
+			public const int avd_hide_password_1 = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int avd_hide_password_3 = 2130837776;
+			public const int avd_hide_password_2 = 2130837776;
+			
+			// aapt resource value: 0x7f020111
+			public const int avd_hide_password_3 = 2130837777;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020111
-			public const int avd_show_password_1 = 2130837777;
-			
 			// aapt resource value: 0x7f020112
-			public const int avd_show_password_2 = 2130837778;
+			public const int avd_show_password_1 = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int avd_show_password_3 = 2130837779;
+			public const int avd_show_password_2 = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int avd_show_password_3 = 2130837780;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2670,103 +2670,106 @@ namespace PlaySpace.Droid
 			public const int icon = 2130837740;
 			
 			// aapt resource value: 0x7f0200ed
-			public const int mr_button_connected_dark = 2130837741;
+			public const int map = 2130837741;
 			
 			// aapt resource value: 0x7f0200ee
-			public const int mr_button_connected_light = 2130837742;
+			public const int mr_button_connected_dark = 2130837742;
 			
 			// aapt resource value: 0x7f0200ef
-			public const int mr_button_connecting_dark = 2130837743;
+			public const int mr_button_connected_light = 2130837743;
 			
 			// aapt resource value: 0x7f0200f0
-			public const int mr_button_connecting_light = 2130837744;
+			public const int mr_button_connecting_dark = 2130837744;
 			
 			// aapt resource value: 0x7f0200f1
-			public const int mr_button_dark = 2130837745;
+			public const int mr_button_connecting_light = 2130837745;
 			
 			// aapt resource value: 0x7f0200f2
-			public const int mr_button_light = 2130837746;
+			public const int mr_button_dark = 2130837746;
 			
 			// aapt resource value: 0x7f0200f3
-			public const int mr_dialog_close_dark = 2130837747;
+			public const int mr_button_light = 2130837747;
 			
 			// aapt resource value: 0x7f0200f4
-			public const int mr_dialog_close_light = 2130837748;
+			public const int mr_dialog_close_dark = 2130837748;
 			
 			// aapt resource value: 0x7f0200f5
-			public const int mr_dialog_material_background_dark = 2130837749;
+			public const int mr_dialog_close_light = 2130837749;
 			
 			// aapt resource value: 0x7f0200f6
-			public const int mr_dialog_material_background_light = 2130837750;
+			public const int mr_dialog_material_background_dark = 2130837750;
 			
 			// aapt resource value: 0x7f0200f7
-			public const int mr_group_collapse = 2130837751;
+			public const int mr_dialog_material_background_light = 2130837751;
 			
 			// aapt resource value: 0x7f0200f8
-			public const int mr_group_expand = 2130837752;
+			public const int mr_group_collapse = 2130837752;
 			
 			// aapt resource value: 0x7f0200f9
-			public const int mr_media_pause_dark = 2130837753;
+			public const int mr_group_expand = 2130837753;
 			
 			// aapt resource value: 0x7f0200fa
-			public const int mr_media_pause_light = 2130837754;
+			public const int mr_media_pause_dark = 2130837754;
 			
 			// aapt resource value: 0x7f0200fb
-			public const int mr_media_play_dark = 2130837755;
+			public const int mr_media_pause_light = 2130837755;
 			
 			// aapt resource value: 0x7f0200fc
-			public const int mr_media_play_light = 2130837756;
+			public const int mr_media_play_dark = 2130837756;
 			
 			// aapt resource value: 0x7f0200fd
-			public const int mr_media_stop_dark = 2130837757;
+			public const int mr_media_play_light = 2130837757;
 			
 			// aapt resource value: 0x7f0200fe
-			public const int mr_media_stop_light = 2130837758;
+			public const int mr_media_stop_dark = 2130837758;
 			
 			// aapt resource value: 0x7f0200ff
-			public const int mr_vol_type_audiotrack_dark = 2130837759;
+			public const int mr_media_stop_light = 2130837759;
 			
 			// aapt resource value: 0x7f020100
-			public const int mr_vol_type_audiotrack_light = 2130837760;
+			public const int mr_vol_type_audiotrack_dark = 2130837760;
 			
 			// aapt resource value: 0x7f020101
-			public const int navigation_empty_icon = 2130837761;
+			public const int mr_vol_type_audiotrack_light = 2130837761;
 			
 			// aapt resource value: 0x7f020102
-			public const int notification_action_background = 2130837762;
+			public const int navigation_empty_icon = 2130837762;
 			
 			// aapt resource value: 0x7f020103
-			public const int notification_bg = 2130837763;
+			public const int notification_action_background = 2130837763;
 			
 			// aapt resource value: 0x7f020104
-			public const int notification_bg_low = 2130837764;
+			public const int notification_bg = 2130837764;
 			
 			// aapt resource value: 0x7f020105
-			public const int notification_bg_low_normal = 2130837765;
+			public const int notification_bg_low = 2130837765;
 			
 			// aapt resource value: 0x7f020106
-			public const int notification_bg_low_pressed = 2130837766;
+			public const int notification_bg_low_normal = 2130837766;
 			
 			// aapt resource value: 0x7f020107
-			public const int notification_bg_normal = 2130837767;
+			public const int notification_bg_low_pressed = 2130837767;
 			
 			// aapt resource value: 0x7f020108
-			public const int notification_bg_normal_pressed = 2130837768;
+			public const int notification_bg_normal = 2130837768;
 			
 			// aapt resource value: 0x7f020109
-			public const int notification_icon_background = 2130837769;
-			
-			// aapt resource value: 0x7f02010c
-			public const int notification_template_icon_bg = 2130837772;
-			
-			// aapt resource value: 0x7f02010d
-			public const int notification_template_icon_low_bg = 2130837773;
+			public const int notification_bg_normal_pressed = 2130837769;
 			
 			// aapt resource value: 0x7f02010a
-			public const int notification_tile_bg = 2130837770;
+			public const int notification_icon_background = 2130837770;
+			
+			// aapt resource value: 0x7f02010d
+			public const int notification_template_icon_bg = 2130837773;
+			
+			// aapt resource value: 0x7f02010e
+			public const int notification_template_icon_low_bg = 2130837774;
 			
 			// aapt resource value: 0x7f02010b
-			public const int notify_panel_notification_icon_bg = 2130837771;
+			public const int notification_tile_bg = 2130837771;
+			
+			// aapt resource value: 0x7f02010c
+			public const int notify_panel_notification_icon_bg = 2130837772;
 			
 			static Drawable()
 			{
@@ -2781,8 +2784,8 @@ namespace PlaySpace.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0800a4
-			public const int action0 = 2131230884;
+			// aapt resource value: 0x7f0800a5
+			public const int action0 = 2131230885;
 			
 			// aapt resource value: 0x7f080064
 			public const int action_bar = 2131230820;
@@ -2805,17 +2808,17 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080041
 			public const int action_bar_title = 2131230785;
 			
-			// aapt resource value: 0x7f0800a1
-			public const int action_container = 2131230881;
+			// aapt resource value: 0x7f0800a2
+			public const int action_container = 2131230882;
 			
 			// aapt resource value: 0x7f080065
 			public const int action_context_bar = 2131230821;
 			
-			// aapt resource value: 0x7f0800a8
-			public const int action_divider = 2131230888;
+			// aapt resource value: 0x7f0800a9
+			public const int action_divider = 2131230889;
 			
-			// aapt resource value: 0x7f0800a2
-			public const int action_image = 2131230882;
+			// aapt resource value: 0x7f0800a3
+			public const int action_image = 2131230883;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -2832,11 +2835,11 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080043
 			public const int action_mode_close_button = 2131230787;
 			
-			// aapt resource value: 0x7f0800a3
-			public const int action_text = 2131230883;
+			// aapt resource value: 0x7f0800a4
+			public const int action_text = 2131230884;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int actions = 2131230897;
+			// aapt resource value: 0x7f0800b2
+			public const int actions = 2131230898;
 			
 			// aapt resource value: 0x7f080044
 			public const int activity_chooser_view_content = 2131230788;
@@ -2862,23 +2865,23 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080028
 			public const int bottom = 2131230760;
 			
-			// aapt resource value: 0x7f080083
-			public const int button1 = 2131230851;
+			// aapt resource value: 0x7f080084
+			public const int button1 = 2131230852;
 			
-			// aapt resource value: 0x7f080086
-			public const int button3 = 2131230854;
+			// aapt resource value: 0x7f080087
+			public const int button3 = 2131230855;
+			
+			// aapt resource value: 0x7f0800bc
+			public const int buttonExplore = 2131230908;
 			
 			// aapt resource value: 0x7f0800bb
-			public const int buttonExplore = 2131230907;
-			
-			// aapt resource value: 0x7f0800ba
-			public const int buttonListenAmbient = 2131230906;
+			public const int buttonListenAmbient = 2131230907;
 			
 			// aapt resource value: 0x7f08004b
 			public const int buttonPanel = 2131230795;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int cancel_action = 2131230885;
+			// aapt resource value: 0x7f0800a6
+			public const int cancel_action = 2131230886;
 			
 			// aapt resource value: 0x7f080030
 			public const int center = 2131230768;
@@ -2892,8 +2895,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08005b
 			public const int checkbox = 2131230811;
 			
-			// aapt resource value: 0x7f0800ad
-			public const int chronometer = 2131230893;
+			// aapt resource value: 0x7f0800ae
+			public const int chronometer = 2131230894;
 			
 			// aapt resource value: 0x7f080039
 			public const int clip_horizontal = 2131230777;
@@ -2949,8 +2952,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080021
 			public const int end = 2131230753;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int end_padder = 2131230903;
+			// aapt resource value: 0x7f0800b8
+			public const int end_padder = 2131230904;
 			
 			// aapt resource value: 0x7f08002a
 			public const int enterAlways = 2131230762;
@@ -2988,8 +2991,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080049
 			public const int icon = 2131230793;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int icon_group = 2131230898;
+			// aapt resource value: 0x7f0800b3
+			public const int icon_group = 2131230899;
 			
 			// aapt resource value: 0x7f080025
 			public const int ifRoom = 2131230757;
@@ -2997,8 +3000,11 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080046
 			public const int image = 2131230790;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int info = 2131230894;
+			// aapt resource value: 0x7f080081
+			public const int imageView1 = 2131230849;
+			
+			// aapt resource value: 0x7f0800af
+			public const int info = 2131230895;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
@@ -3009,29 +3015,29 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080034
 			public const int left = 2131230772;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int line1 = 2131230899;
+			// aapt resource value: 0x7f0800b4
+			public const int line1 = 2131230900;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int line3 = 2131230901;
+			// aapt resource value: 0x7f0800b6
+			public const int line3 = 2131230902;
 			
-			// aapt resource value: 0x7f080081
-			public const int linearLayout1 = 2131230849;
+			// aapt resource value: 0x7f080082
+			public const int linearLayout1 = 2131230850;
 			
 			// aapt resource value: 0x7f08000f
 			public const int listMode = 2131230735;
 			
-			// aapt resource value: 0x7f0800b8
-			public const int listView1 = 2131230904;
+			// aapt resource value: 0x7f0800b9
+			public const int listView1 = 2131230905;
 			
 			// aapt resource value: 0x7f080048
 			public const int list_item = 2131230792;
 			
-			// aapt resource value: 0x7f0800be
-			public const int masked = 2131230910;
+			// aapt resource value: 0x7f0800bf
+			public const int masked = 2131230911;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int media_actions = 2131230887;
+			// aapt resource value: 0x7f0800a8
+			public const int media_actions = 2131230888;
 			
 			// aapt resource value: 0x7f080022
 			public const int middle = 2131230754;
@@ -3039,80 +3045,80 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08003e
 			public const int mini = 2131230782;
 			
-			// aapt resource value: 0x7f080093
-			public const int mr_art = 2131230867;
-			
-			// aapt resource value: 0x7f080088
-			public const int mr_chooser_list = 2131230856;
-			
-			// aapt resource value: 0x7f08008b
-			public const int mr_chooser_route_desc = 2131230859;
+			// aapt resource value: 0x7f080094
+			public const int mr_art = 2131230868;
 			
 			// aapt resource value: 0x7f080089
-			public const int mr_chooser_route_icon = 2131230857;
-			
-			// aapt resource value: 0x7f08008a
-			public const int mr_chooser_route_name = 2131230858;
-			
-			// aapt resource value: 0x7f080087
-			public const int mr_chooser_title = 2131230855;
-			
-			// aapt resource value: 0x7f080090
-			public const int mr_close = 2131230864;
-			
-			// aapt resource value: 0x7f080096
-			public const int mr_control_divider = 2131230870;
-			
-			// aapt resource value: 0x7f08009c
-			public const int mr_control_playback_ctrl = 2131230876;
-			
-			// aapt resource value: 0x7f08009f
-			public const int mr_control_subtitle = 2131230879;
-			
-			// aapt resource value: 0x7f08009e
-			public const int mr_control_title = 2131230878;
-			
-			// aapt resource value: 0x7f08009d
-			public const int mr_control_title_container = 2131230877;
-			
-			// aapt resource value: 0x7f080091
-			public const int mr_custom_control = 2131230865;
-			
-			// aapt resource value: 0x7f080092
-			public const int mr_default_control = 2131230866;
-			
-			// aapt resource value: 0x7f08008d
-			public const int mr_dialog_area = 2131230861;
+			public const int mr_chooser_list = 2131230857;
 			
 			// aapt resource value: 0x7f08008c
-			public const int mr_expandable_area = 2131230860;
+			public const int mr_chooser_route_desc = 2131230860;
 			
-			// aapt resource value: 0x7f0800a0
-			public const int mr_group_expand_collapse = 2131230880;
+			// aapt resource value: 0x7f08008a
+			public const int mr_chooser_route_icon = 2131230858;
 			
-			// aapt resource value: 0x7f080094
-			public const int mr_media_main_control = 2131230868;
+			// aapt resource value: 0x7f08008b
+			public const int mr_chooser_route_name = 2131230859;
 			
-			// aapt resource value: 0x7f08008f
-			public const int mr_name = 2131230863;
+			// aapt resource value: 0x7f080088
+			public const int mr_chooser_title = 2131230856;
 			
-			// aapt resource value: 0x7f080095
-			public const int mr_playback_control = 2131230869;
-			
-			// aapt resource value: 0x7f08008e
-			public const int mr_title_bar = 2131230862;
+			// aapt resource value: 0x7f080091
+			public const int mr_close = 2131230865;
 			
 			// aapt resource value: 0x7f080097
-			public const int mr_volume_control = 2131230871;
+			public const int mr_control_divider = 2131230871;
+			
+			// aapt resource value: 0x7f08009d
+			public const int mr_control_playback_ctrl = 2131230877;
+			
+			// aapt resource value: 0x7f0800a0
+			public const int mr_control_subtitle = 2131230880;
+			
+			// aapt resource value: 0x7f08009f
+			public const int mr_control_title = 2131230879;
+			
+			// aapt resource value: 0x7f08009e
+			public const int mr_control_title_container = 2131230878;
+			
+			// aapt resource value: 0x7f080092
+			public const int mr_custom_control = 2131230866;
+			
+			// aapt resource value: 0x7f080093
+			public const int mr_default_control = 2131230867;
+			
+			// aapt resource value: 0x7f08008e
+			public const int mr_dialog_area = 2131230862;
+			
+			// aapt resource value: 0x7f08008d
+			public const int mr_expandable_area = 2131230861;
+			
+			// aapt resource value: 0x7f0800a1
+			public const int mr_group_expand_collapse = 2131230881;
+			
+			// aapt resource value: 0x7f080095
+			public const int mr_media_main_control = 2131230869;
+			
+			// aapt resource value: 0x7f080090
+			public const int mr_name = 2131230864;
+			
+			// aapt resource value: 0x7f080096
+			public const int mr_playback_control = 2131230870;
+			
+			// aapt resource value: 0x7f08008f
+			public const int mr_title_bar = 2131230863;
 			
 			// aapt resource value: 0x7f080098
-			public const int mr_volume_group_list = 2131230872;
+			public const int mr_volume_control = 2131230872;
 			
-			// aapt resource value: 0x7f08009a
-			public const int mr_volume_item_icon = 2131230874;
+			// aapt resource value: 0x7f080099
+			public const int mr_volume_group_list = 2131230873;
 			
 			// aapt resource value: 0x7f08009b
-			public const int mr_volume_slider = 2131230875;
+			public const int mr_volume_item_icon = 2131230875;
+			
+			// aapt resource value: 0x7f08009c
+			public const int mr_volume_slider = 2131230876;
 			
 			// aapt resource value: 0x7f080019
 			public const int multiply = 2131230745;
@@ -3129,14 +3135,14 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080010
 			public const int normal = 2131230736;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int notification_background = 2131230896;
+			// aapt resource value: 0x7f0800b1
+			public const int notification_background = 2131230897;
+			
+			// aapt resource value: 0x7f0800ab
+			public const int notification_main_column = 2131230891;
 			
 			// aapt resource value: 0x7f0800aa
-			public const int notification_main_column = 2131230890;
-			
-			// aapt resource value: 0x7f0800a9
-			public const int notification_main_column_container = 2131230889;
+			public const int notification_main_column_container = 2131230890;
 			
 			// aapt resource value: 0x7f080037
 			public const int parallax = 2131230775;
@@ -3147,8 +3153,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080038
 			public const int pin = 2131230776;
 			
-			// aapt resource value: 0x7f0800b9
-			public const int playSpaces = 2131230905;
+			// aapt resource value: 0x7f0800ba
+			public const int playSpaces = 2131230906;
 			
 			// aapt resource value: 0x7f080006
 			public const int progress_circular = 2131230726;
@@ -3162,11 +3168,11 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080035
 			public const int right = 2131230773;
 			
-			// aapt resource value: 0x7f0800af
-			public const int right_icon = 2131230895;
+			// aapt resource value: 0x7f0800b0
+			public const int right_icon = 2131230896;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int right_side = 2131230891;
+			// aapt resource value: 0x7f0800ac
+			public const int right_side = 2131230892;
 			
 			// aapt resource value: 0x7f08001a
 			public const int screen = 2131230746;
@@ -3243,8 +3249,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08002e
 			public const int snap = 2131230766;
 			
-			// aapt resource value: 0x7f080085
-			public const int songList = 2131230853;
+			// aapt resource value: 0x7f080086
+			public const int songList = 2131230854;
 			
 			// aapt resource value: 0x7f08004c
 			public const int spacer = 2131230796;
@@ -3264,8 +3270,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080036
 			public const int start = 2131230774;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int status_bar_latest_event_content = 2131230886;
+			// aapt resource value: 0x7f0800a7
+			public const int status_bar_latest_event_content = 2131230887;
 			
 			// aapt resource value: 0x7f08005e
 			public const int submenuarrow = 2131230814;
@@ -3276,11 +3282,11 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080011
 			public const int tabMode = 2131230737;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int text = 2131230902;
+			// aapt resource value: 0x7f0800b7
+			public const int text = 2131230903;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int text2 = 2131230900;
+			// aapt resource value: 0x7f0800b5
+			public const int text2 = 2131230901;
 			
 			// aapt resource value: 0x7f080052
 			public const int textSpacerNoButtons = 2131230802;
@@ -3288,11 +3294,11 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080051
 			public const int textSpacerNoTitle = 2131230801;
 			
-			// aapt resource value: 0x7f080082
-			public const int textView1 = 2131230850;
+			// aapt resource value: 0x7f080083
+			public const int textView1 = 2131230851;
 			
-			// aapt resource value: 0x7f080084
-			public const int textView3 = 2131230852;
+			// aapt resource value: 0x7f080085
+			public const int textView3 = 2131230853;
 			
 			// aapt resource value: 0x7f080080
 			public const int text_input_password_toggle = 2131230848;
@@ -3303,8 +3309,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08000d
 			public const int textinput_error = 2131230733;
 			
-			// aapt resource value: 0x7f0800ac
-			public const int time = 2131230892;
+			// aapt resource value: 0x7f0800ad
+			public const int time = 2131230893;
 			
 			// aapt resource value: 0x7f08004a
 			public const int title = 2131230794;
@@ -3315,8 +3321,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080057
 			public const int title_template = 2131230807;
 			
-			// aapt resource value: 0x7f0800bc
-			public const int toolbar = 2131230908;
+			// aapt resource value: 0x7f0800bd
+			public const int toolbar = 2131230909;
 			
 			// aapt resource value: 0x7f080029
 			public const int top = 2131230761;
@@ -3342,11 +3348,11 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int visible = 2131230909;
+			// aapt resource value: 0x7f0800be
+			public const int visible = 2131230910;
 			
-			// aapt resource value: 0x7f080099
-			public const int volume_item_container = 2131230873;
+			// aapt resource value: 0x7f08009a
+			public const int volume_item_container = 2131230874;
 			
 			// aapt resource value: 0x7f080027
 			public const int withText = 2131230759;
