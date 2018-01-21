@@ -24,6 +24,8 @@
     <item name="android:datePickerDialogTheme">@style/AppCompatDialogStyle</item>
   </style>
 
+  <string name="first_screen">First Screen</string>
+  
   <style name="AppCompatDialogStyle" parent="Theme.AppCompat.Light.Dialog">
     <item name="colorAccent">#FF4081</item>
   </style>

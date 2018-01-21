@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Content;
 
 namespace PlaySpace.Droid
 {
@@ -19,10 +20,21 @@ namespace PlaySpace.Droid
 
             base.OnCreate(bundle);
 
+            
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
 
             SetContentView(TabLayoutResource);
+
+            Button firstScreenButton = FindViewById<Button>(Resource.Id.first_screen);
+
+            firstScreenButton.Click += (sender, e) =>
+            {
+                var intent = new Intent(this, typeof(first_screen));
+                //intent.PutStringArrayListExtra("phone_numbers", phoneNumbers);
+                StartActivity(intent);
+            };
+
         }
     }
 }

@@ -2862,9 +2862,6 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080028
 			public const int bottom = 2131230760;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int button1 = 2131230900;
-			
 			// aapt resource value: 0x7f08004b
 			public const int buttonPanel = 2131230795;
 			
@@ -2966,6 +2963,9 @@ namespace PlaySpace.Droid
 			
 			// aapt resource value: 0x7f080033
 			public const int fill_vertical = 2131230771;
+			
+			// aapt resource value: 0x7f0800b4
+			public const int first_screen = 2131230900;
 			
 			// aapt resource value: 0x7f08003f
 			public const int @fixed = 2131230783;
@@ -3732,6 +3732,9 @@ namespace PlaySpace.Droid
 			
 			// aapt resource value: 0x7f090038
 			public const int character_counter_pattern = 2131296312;
+			
+			// aapt resource value: 0x7f09003e
+			public const int first_screen = 2131296318;
 			
 			// aapt resource value: 0x7f090000
 			public const int mr_button_content_description = 2131296256;
