@@ -15,11 +15,20 @@ namespace PlaySpace.Droid
     [Activity(Label = "ListenAmbient")]
     public class ListenAmbient : Activity
     {
+        List<string> songs = new List<string>();
+
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
+            songs.Add("aiojoijoi");
             // Create your application here
+
+            ListView list = FindViewById<ListView>(Resource.Id.songList);
+            //list.set
+            //list.set
+
             SetContentView(Resource.Layout.ListenAmbient);
         }
     }
