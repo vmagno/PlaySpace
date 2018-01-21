@@ -27,14 +27,26 @@ namespace PlaySpace.Droid
             SetContentView(TabLayoutResource);
 
             Button playSpacesButton = FindViewById<Button>(Resource.Id.playSpaces);
+            Button listenAmbientButton = FindViewById<Button>(Resource.Id.buttonListenAmbient);
+            Button exploreButton = FindViewById<Button>(Resource.Id.buttonExplore);
 
             playSpacesButton.Click += (sender, e) =>
             {
                 var intent = new Intent(this, typeof(PlaySpaces));
-                //intent.PutStringArrayListExtra("phone_numbers", phoneNumbers);
                 StartActivity(intent);
             };
 
+            listenAmbientButton.Click += (sender, e) =>
+            {
+                var intent = new Intent(this, typeof(ListenAmbient));
+                StartActivity(intent);
+            };
+
+            exploreButton.Click += (sender, e) =>
+            {
+                var intent = new Intent(this, typeof(Explore));
+                StartActivity(intent);
+            };
         }
     }
 }

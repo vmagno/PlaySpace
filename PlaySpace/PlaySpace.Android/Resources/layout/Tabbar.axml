@@ -16,4 +16,14 @@
         p1:layout_height="wrap_content"
         p1:id="@+id/playSpaces"
         p1:enabled="true" />
+    <Button
+        p1:text="Listen Ambient"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/buttonListenAmbient" />
+    <Button
+        p1:text="Explore"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/buttonExplore" />
 </LinearLayout>
