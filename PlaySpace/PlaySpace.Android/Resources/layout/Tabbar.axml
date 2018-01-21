@@ -11,9 +11,9 @@
         p1:layout_height="wrap_content"
         p1:id="@+id/textView1" />
     <Button
-        p1:text="First Screen"
+        p1:text="PlaySpaces"
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
-        p1:id="@+id/first_screen"
+        p1:id="@+id/playSpaces"
         p1:enabled="true" />
 </LinearLayout>

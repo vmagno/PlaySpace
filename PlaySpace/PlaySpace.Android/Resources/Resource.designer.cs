@@ -2964,9 +2964,6 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080033
 			public const int fill_vertical = 2131230771;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int first_screen = 2131230900;
-			
 			// aapt resource value: 0x7f08003f
 			public const int @fixed = 2131230783;
 			
@@ -3012,11 +3009,14 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08000f
 			public const int listMode = 2131230735;
 			
+			// aapt resource value: 0x7f0800b3
+			public const int listView1 = 2131230899;
+			
 			// aapt resource value: 0x7f080048
 			public const int list_item = 2131230792;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int masked = 2131230903;
+			// aapt resource value: 0x7f0800b8
+			public const int masked = 2131230904;
 			
 			// aapt resource value: 0x7f0800a1
 			public const int media_actions = 2131230881;
@@ -3134,6 +3134,9 @@ namespace PlaySpace.Droid
 			
 			// aapt resource value: 0x7f080038
 			public const int pin = 2131230776;
+			
+			// aapt resource value: 0x7f0800b5
+			public const int playSpaces = 2131230901;
 			
 			// aapt resource value: 0x7f080006
 			public const int progress_circular = 2131230726;
@@ -3270,8 +3273,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080051
 			public const int textSpacerNoTitle = 2131230801;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int textView1 = 2131230899;
+			// aapt resource value: 0x7f0800b4
+			public const int textView1 = 2131230900;
 			
 			// aapt resource value: 0x7f080080
 			public const int text_input_password_toggle = 2131230848;
@@ -3294,8 +3297,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f080057
 			public const int title_template = 2131230807;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int toolbar = 2131230901;
+			// aapt resource value: 0x7f0800b6
+			public const int toolbar = 2131230902;
 			
 			// aapt resource value: 0x7f080029
 			public const int top = 2131230761;
@@ -3321,8 +3324,8 @@ namespace PlaySpace.Droid
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int visible = 2131230902;
+			// aapt resource value: 0x7f0800b7
+			public const int visible = 2131230903;
 			
 			// aapt resource value: 0x7f080093
 			public const int volume_item_container = 2131230867;
@@ -3601,22 +3604,25 @@ namespace PlaySpace.Droid
 			public const int notification_template_part_time = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int select_dialog_item_material = 2130903102;
+			public const int PlaySpaces = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int select_dialog_multichoice_material = 2130903103;
+			public const int select_dialog_item_material = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int select_dialog_singlechoice_material = 2130903104;
+			public const int select_dialog_multichoice_material = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int support_simple_spinner_dropdown_item = 2130903105;
+			public const int select_dialog_singlechoice_material = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int Tabbar = 2130903106;
+			public const int support_simple_spinner_dropdown_item = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int Toolbar = 2130903107;
+			public const int Tabbar = 2130903107;
+			
+			// aapt resource value: 0x7f030044
+			public const int Toolbar = 2130903108;
 			
 			static Layout()
 			{

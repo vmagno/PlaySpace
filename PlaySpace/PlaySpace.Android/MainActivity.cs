@@ -17,7 +17,7 @@ namespace PlaySpace.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-
+            
             base.OnCreate(bundle);
 
             
@@ -26,11 +26,11 @@ namespace PlaySpace.Droid
 
             SetContentView(TabLayoutResource);
 
-            Button firstScreenButton = FindViewById<Button>(Resource.Id.first_screen);
+            Button playSpacesButton = FindViewById<Button>(Resource.Id.playSpaces);
 
-            firstScreenButton.Click += (sender, e) =>
+            playSpacesButton.Click += (sender, e) =>
             {
-                var intent = new Intent(this, typeof(first_screen));
+                var intent = new Intent(this, typeof(PlaySpaces));
                 //intent.PutStringArrayListExtra("phone_numbers", phoneNumbers);
                 StartActivity(intent);
             };
